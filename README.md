@@ -8,10 +8,12 @@
 🚀 As I progress I'd also like to start learning about other tools including Github!
 
 ##
-📫 My Socials
+📫 Socials/Other Stuff
   - [Work Bio][Work Bio]
   - [LinkedIn][LinkedIn]
   - [GitHub][GitHub]
+  - [Tableau Public][Tableau Public]
+  - [Alteryx Community][Alteryx Community]
   
 <!--
 Quick Link 
