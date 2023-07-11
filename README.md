@@ -12,7 +12,6 @@
   - [Work Bio][Work Bio]
   - [LinkedIn][LinkedIn]
   - [GitHub][GitHub]
-  - [Twitter][Twitter]
   
 <!--
 Quick Link 
@@ -21,7 +20,6 @@ Quick Link
 [Work Bio]:https://www.thedataschool.co.uk/blog/abiramm-thavajothy/
 [LinkedIn]:https://www.linkedin.com/in/abiramm-thavajothy-a9332119b/
 [GitHub]:https://github.com/AbirammT
-[Twitter]:https://twitter.com/AbirammT
 <!--
 
 <!---
