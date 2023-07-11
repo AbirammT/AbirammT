@@ -7,7 +7,6 @@
 
 🚀 As I progress I'd also like to start learning about other tools including Github!
 
-
 ##
 📫 My Socials
   - [Work Bio][Work Bio]
