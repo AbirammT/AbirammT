@@ -22,6 +22,8 @@ Quick Link
 [Work Bio]:https://www.thedataschool.co.uk/blog/abiramm-thavajothy/
 [LinkedIn]:https://www.linkedin.com/in/abiramm-thavajothy-a9332119b/
 [GitHub]:https://github.com/AbirammT
+[Tableau Public]:https://public.tableau.com/app/profile/abiramm.thavajothy
+[Alteryx Community]:https://community.alteryx.com/t5/user/viewprofilepage/user-id/325196
 <!--
 
 <!---
